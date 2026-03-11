@@ -1,0 +1,2 @@
+# Resolving-Idioms-to-Improve-the-Machine-Translation-in-Indic-Languages
+Translating idiomatic expressions from Indic languages into English is difficult for automated systems because literal translations often fail to capture cultural context and intended meaning. The main objective of machine translation is to convert text between languages while preserving meaning, style, and linguistic fluency
